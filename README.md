@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Edirlan Brito</h1>
 <h3 align="center">I'm a full stack developer</h3>
+<div align="center">
 
 ![giphy](https://github.com/Edkush42/Edkush42/assets/88016959/1c85169c-6ce9-4a17-9854-6ea20511b737)
+</div>
+
 
 - <span align= "center">![pngegg (2)](https://github.com/Edkush42/Edkush42/assets/88016959/9598927a-4e96-460a-94fd-14e571d69e76)</span> I’m currently learning **Next.js, Python, Mongo DB**
 
